@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BC41BC8-F228-4F74-8EDF-38420956684A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A308B52-D9B6-420E-A45F-62893D59F585"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookSum/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F5238B8-BBA8-48B2-BB48-25E77D19F713"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookSum/AIChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "sendMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F5238B8-BBA8-48B2-BB48-25E77D19F713 - 3e194db48cd14137"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BookSum.ChatStreamCompletionResponse) -&gt; () in closure #1 (Alamofire.DataStreamRequest.Stream&lt;Swift.String, Swift.Never&gt;) -&gt; () in BookSum.SummaryView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "BookSum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaydenkong/Documents/ios/BookSum/BookSum/AIChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1312">
+               </Location>
+               <Location
+                  uuid = "6F5238B8-BBA8-48B2-BB48-25E77D19F713 - f5d881186c3e46ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BookSum.AIMessage) -&gt; Swift.Bool in closure #1 (BookSum.ChatStreamCompletionResponse) -&gt; () in closure #1 (Alamofire.DataStreamRequest.Stream&lt;Swift.String, Swift.Never&gt;) -&gt; () in BookSum.SummaryView.ViewModel.sendMessage() -&gt; ()"
+                  moduleName = "BookSum"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaydenkong/Documents/ios/BookSum/BookSum/AIChatViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3A30B24-0C2C-4C19-B267-9C7D334A9724"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookSum/AIChatViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "sendMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
